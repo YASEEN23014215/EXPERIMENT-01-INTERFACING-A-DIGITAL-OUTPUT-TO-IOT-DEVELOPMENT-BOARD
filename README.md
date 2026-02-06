@@ -90,15 +90,7 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
     ![image](https://github.com/user-attachments/assets/9383531d-8204-4697-9321-55afb6abee2e)
 
 14.  After the file download is complete, switch your board to run mode and press the reset button to see the output
-
-
-
-
-
-
 ## STM 32 CUBE PROGRAM:
-
-
 ```
 int main(void)
 {
@@ -117,16 +109,11 @@ int main(void)
   }
 }
 ```
-
 ## OUTPUT: 
 ## OFF:
 ![image OFF 1](https://github.com/user-attachments/assets/fbe6eaa0-d979-4e9c-806f-fa85b3452dd7)
 ## ON:
 ![image ON 1](https://github.com/user-attachments/assets/d6f74859-2017-4fa8-a113-1a6dc77b1571)
-
-
-
-
 ## Result
 
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
